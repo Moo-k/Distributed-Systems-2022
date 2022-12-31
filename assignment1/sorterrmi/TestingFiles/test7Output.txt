@@ -1,0 +1,49 @@
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter delay:
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter delay:
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter value:
+Value: 1 pushed.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter delay:
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter delay:
+Waited for 200 ms.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter value:
+Value: 2 pushed.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter delay:
+Waited for 300 ms.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter delay:
+Waited for 400 ms.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Value: 2 popped.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter delay:
+Waited for 500 ms.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter value:
+Value: 3 pushed.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Exiting Client.
+Waited for 400 ms.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter value:
+Value: 4 pushed.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Exiting Client.
+Waited for 300 ms.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Value: 4 popped.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Exiting Client.
+Value: 3 popped after 1500ms.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Value: 1 popped.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+The stack is empty.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Exiting Client.

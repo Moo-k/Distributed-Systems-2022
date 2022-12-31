@@ -1,0 +1,10 @@
+CONNECT/EXIT
+Choose a port (leave empty for default 4567): 
+GET/EXIT
+local LC: 2
+1234
+2345
+3456
+abcd
+GET/EXIT
+Exiting Client.

@@ -1,0 +1,39 @@
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter value:
+Value: 1 pushed.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter value:
+Value: 4 pushed.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter value:
+Value: 12 pushed.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter operator: ascending/descending/max/min
+Stack rearranged using: min
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Value: 1 popped.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+The stack is empty.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter value:
+Value: 7 pushed.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter value:
+Value: 23 pushed.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter value:
+Value: -12 pushed.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter value:
+Value: -12 pushed.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter operator: ascending/descending/max/min
+Stack rearranged using: min
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Value: -12 popped.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Value: -12 popped.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+The stack is empty.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Exiting Client.

@@ -1,0 +1,6 @@
+CONNECT
+4567
+PUT
+abc
+def
+END INPUT

@@ -1,0 +1,33 @@
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter value:
+Value: 1 pushed.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter value:
+Value: 2 pushed.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter value:
+Value: 5 pushed.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter value:
+Value: 6 pushed.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Value: 6 popped.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Value: 5 popped.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+The stack is not empty.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Value: 2 popped.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Enter value:
+Value: 12 pushed.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Value: 12 popped.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+The stack is not empty.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Value: 1 popped.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+The stack is empty.
+Commands: pushValue/pushOperator/pop/isEmpty/delayPop/close/delay
+Exiting Client.

@@ -1,0 +1,47 @@
+ID: 10001 trying to connect to port 10000
+Connected
+ID: 10001 Sent PREPARE Message to port 10000
+Promise received, majority not reached
+Phase 2a has accepted value
+ID: 10001 trying to connect to port 10002
+ID: 10001 Sent PREPARE Message to port 10002
+Connected
+Promise received, majority not reached
+Phase 2a has accepted value
+ID: 10001 trying to connect to port 10003
+ID: 10001 Sent PREPARE Message to port 10003
+Connected
+Promise received, majority not reached
+Phase 2a has accepted value
+ID: 10001 trying to connect to port 10004
+ID: 10001 Sent PREPARE Message to port 10004
+Connected
+Promise received, majority not reached
+Phase 2a has accepted value
+ID: 10001 trying to connect to port 10005
+ID: 10001 Sent PREPARE Message to port 10005
+Connected
+Promise received, majority reached
+Phase 2a has accepted value
+ID: 10001 trying to connect to port 10006
+ID: 10001 Sent PREPARE Message to port 10006
+Connected
+Promise received, majority reached
+Phase 2a has accepted value
+ID: 10001 trying to connect to port 10007
+ID: 10001 Sent PREPARE Message to port 10007
+Connected
+Promise received, majority reached
+Phase 2a has accepted value
+ID: 10001 trying to connect to port 10008
+ID: 10001 Sent PREPARE Message to port 10008
+Connected
+ACCEPTED ID: 0, ACCEPTED VALUE: 1
+Promise received, majority reached
+Phase 2a has accepted value
+ID: 10001 trying to connect to port 10000
+ID: 10001 Sent PREPARE Message to port 10000
+Connected
+ACCEPTED ID: 0, ACCEPTED VALUE: 1
+ACCEPTED ID: 0, ACCEPTED VALUE: 1
+ACCEPTED ID: 0, ACCEPTED VALUE: 1
